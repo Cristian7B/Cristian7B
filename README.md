@@ -1,4 +1,5 @@
-## Hi there, I'm Cristian, a Web Developer👋
+## Hi there, I'm Cristian👋
+
 
 <!--
 **Cristian7B/Cristian7B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
