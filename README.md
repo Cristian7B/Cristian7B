@@ -1,6 +1,6 @@
 ## Hi there, I'm Cristian👋
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 <!--
 **Cristian7B/Cristian7B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
