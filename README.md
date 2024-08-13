@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian7b&layout=compact&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
 
-<a>JADSFJJ</>
+
 <!--
 **Cristian7B/Cristian7B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
