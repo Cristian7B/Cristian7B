@@ -1,6 +1,6 @@
 ## Hi there, I'm Cristian👋
 
-<div style="border-collapse: collapse; width: 100%;">
+<div style="display: flex; align-items: center; gap: 10px; width: 100%;">
   <tr>
     <td style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
