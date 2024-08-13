@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristian7b&count_private=true&show_icons=true&theme=dark&bg_color=5558e6&icon_color=F4B942&title_color=FBFBF2&hide_border=true&text_color=CFD2CD)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian7b&layout=compact&hide=c++,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian7b&layout=compact&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Cristian7B/Cristian7B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
