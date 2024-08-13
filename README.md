@@ -1,6 +1,6 @@
 ## Hi there, I'm Cristian👋
 
-<table style="border-collapse: collapse; width: 100%;">
+<div style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,7 +13,7 @@
       </a>
     </td>
   </tr>
-</table>
+</div>
 
 
 <!--
