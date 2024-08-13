@@ -1,5 +1,5 @@
 ## Hi there, I'm Cristian👋
-Full stack developer and running enthusiast.
+Full stack developer, running and technology enthusiast.
 <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=cristian7b&count_private=true&show_icons=true&theme=dark&bg_color=5558e6&icon_color=F4B942&title_color=FBFBF2&hide_border=true&text_color=CFD2CD" alt="Anurag's GitHub stats"/>
