@@ -316,7 +316,7 @@ Full stack developer, running and technology enthusiast.
   style="
     display: flex; 
     align-items: center; 
-    gap: 10px; 
+    gap: 20px; 
     width: 100%; 
   "
 >
