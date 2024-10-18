@@ -2,10 +2,10 @@
 Full stack developer, running and technology enthusiast.
 
 ### About me
-- 👩🏼‍💻 I’m currently studying Systems Engineer.
-- 🔭 Actually, i’m working on enhance my habilites at **[Astro](astro.build)**, **[React](https://es.react.dev/)** and **[Node](nodejs.org)**.
-- 📫 You can reach me at *dev.cristianb@gmail.com*, write me and let´s collaborate together.
-- ⚡ Fun fact: I try to be a [Runner](https://www.strava.com/athletes/130685771?share_sig=41KFHOFJ1710094328)
+- 👩🏼‍💻 I am currently pursuing a degree in Systems Engineering.
+- 🔭 I am actively working on improving my skills in **[Astro](astro.build)**, **[React](https://es.react.dev/)** and **[Node](nodejs.org)**.
+- 📫 Feel free to contact me at*dev.cristianb@gmail.com*, I am open to collaborations and new opportunities.
+- ⚡ Fun fact: I aspire to be a  [Runner](https://www.strava.com/athletes/130685771?share_sig=41KFHOFJ1710094328)
 
 <div style="display: flex; flex-direction: column; justify-content:center; align-items: center;">
   <h3>Connect with me 🔗</h3>
