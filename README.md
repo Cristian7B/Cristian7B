@@ -223,6 +223,11 @@ Full stack developer, running and technology enthusiast.
       height="40"
     />
   </a>
+  </a>
+    <a href="https://vercel.com">
+    <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png"       width="40"
+      height="40">
+  </a>
 </div>
 <h3 style="color:#999">Frameworks</h3>
   <div 
@@ -304,11 +309,6 @@ Full stack developer, running and technology enthusiast.
       width="40"
       height="40"
     />
-  </a>
-    <a href="https://vercel.com">
-    <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png"       width="40"
-      height="40">
-  </a>
 </div>
 
 ## Yearly Stats
