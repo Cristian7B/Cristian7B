@@ -3,7 +3,7 @@ Full stack developer, running and technology enthusiast.
 
 ### About me
 - 👩🏼‍💻 I am currently pursuing a degree in Systems Engineering.
-- 🔭 I am actively working on improving my skills in **[Astro](astro.build)**, **[React](https://es.react.dev/)** and **[Node](nodejs.org)**.
+- 🔭 I am actively working on improving my skills in **[Astro](https://astro.build)**, **[React](https://es.react.dev/)** and **[Node](https://nodejs.org)**.
 - 📫 Feel free to contact me at*dev.cristianb@gmail.com*, I am open to collaborations and new opportunities.
 - ⚡ Fun fact: I aspire to be a  [Runner](https://www.strava.com/athletes/130685771?share_sig=41KFHOFJ1710094328)
 
