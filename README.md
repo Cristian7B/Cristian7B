@@ -1,5 +1,5 @@
 ## Hi there, I'm Cristian👋
-Full stack developer, running and technology enthusiast.
+Web developer, Designer, Runner.
 
 ### About me
 - 👩🏼‍💻 I am currently pursuing a degree in Systems Engineering.
