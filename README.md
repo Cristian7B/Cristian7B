@@ -22,4 +22,4 @@ Full stack developer, running and technology enthusiast.
   </div>
 </div>
 
-## Designing something new... ☁️
+Designing something new... ☁️
